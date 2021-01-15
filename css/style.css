@@ -1,0 +1,25 @@
+*{
+    color: blue;
+    margin: 0;
+    background-color: lightblue;
+}
+
+#contenitore{
+    width: 1200px;
+    border: black 3px;
+    margin: auto;
+}
+
+.box{
+    display: inline-block;
+    background-color: yellow;
+    height: 300px;
+    width: 20%;
+    margin: 2%;
+    border: solid red 2px;
+}
+
+.box_1 {
+background-color: purple;
+
+}
